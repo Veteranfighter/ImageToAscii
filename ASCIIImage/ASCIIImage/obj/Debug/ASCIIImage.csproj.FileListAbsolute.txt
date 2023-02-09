@@ -1,0 +1,7 @@
+C:\Users\Lenge\source\repos\ASCIIImage\ASCIIImage\bin\Debug\ASCIIImage.exe.config
+C:\Users\Lenge\source\repos\ASCIIImage\ASCIIImage\bin\Debug\ASCIIImage.exe
+C:\Users\Lenge\source\repos\ASCIIImage\ASCIIImage\bin\Debug\ASCIIImage.pdb
+C:\Users\Lenge\source\repos\ASCIIImage\ASCIIImage\obj\Debug\ASCIIImage.csprojAssemblyReference.cache
+C:\Users\Lenge\source\repos\ASCIIImage\ASCIIImage\obj\Debug\ASCIIImage.csproj.CoreCompileInputs.cache
+C:\Users\Lenge\source\repos\ASCIIImage\ASCIIImage\obj\Debug\ASCIIImage.exe
+C:\Users\Lenge\source\repos\ASCIIImage\ASCIIImage\obj\Debug\ASCIIImage.pdb
